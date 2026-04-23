@@ -54,6 +54,7 @@ encoder8.v
 encoder8_sync.v
 ```
 - 思考：
+
   原始设计为什么是组合逻辑？
   为什么组合逻辑可能出现毛刺？
   为什么增加寄存器可以稳定输出？
@@ -82,6 +83,7 @@ git push
 进入你的仓库页面：
 
 Commits
+
 点击最新一次 commit
 进入 Files changed
 观察红绿差异（diff）：
